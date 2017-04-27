@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989384079505",
+    "project_id": "my-pubnub-gcm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989384079505:android:db6f6a9de1f7e464",
+        "android_client_info": {
+          "package_name": "com.birdpeek.mypubnubgcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989384079505-9b3b6iat1mm3iuif8q4qf6mq8d60ih5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birdpeek.mypubnubgcm",
+            "certificate_hash": "520D895CD5B62852395720E9524DEA0398CEEC0D"
+          }
+        },
+        {
+          "client_id": "989384079505-btkp6kiok02klbmhvd6sr1bi0ju2j13o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJ7gmnbXJuZGg5azF41AoyygNU9N2g44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

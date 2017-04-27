@@ -1,0 +1,3 @@
+include ':app', ':fcmtest'
+//include ':java-master'
+
